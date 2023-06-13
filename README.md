@@ -15,7 +15,8 @@ positive reviews for a given product. Overall, this project is a crucial tool fo
 today's data-driven landscape, allowing them to make informed decisions about product 
 improvements and marketing strategies based on customer feedback.
 
-#Data Collection and Pre-processing
+<b>Data Collection and Pre-processing</b>
+<newline>
 Dataset was downloaded from Kaggle. The link of the dataset has been given below. It was 
 accessed on 8th April 2023.
 https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset
