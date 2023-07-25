@@ -17,9 +17,7 @@ improvements and marketing strategies based on customer feedback.
 
 <b>Data Collection and Pre-processing</b>
 <newline>
-Dataset was downloaded from Kaggle. The link of the dataset has been given below. It was 
-accessed on 8th April 2023.
-https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset
+this dataset was scrapped from flipkart and then labelled.
 For pre-processing, the unwanted column such as the product_name, Rate, product_price was 
 removed. All Nonvalues were removed. The Sentiment column of the dataset was mapped on 
 the sentiment_map = {‘positive’:1,’neutral’:0, ‘negative’: -1}
